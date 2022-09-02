@@ -1,4 +1,4 @@
-Website Develpoment for Horiseon Develpoment
+Website Develpoment for Horiseon Social
 
 The project is for HTML and CSS relations on proper website accessibility, HTML structure, CSS elements, and attributes including sequencing and consolidating the CSS code.
 
